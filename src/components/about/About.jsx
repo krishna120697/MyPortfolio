@@ -40,12 +40,13 @@ const About = () => {
             </ul>
            <a
   className="btn"
-  href="https://drive.google.com/uc?export=download&id=1HMXlyBR2SC6tgAR5rgBUM_e0UbXBuId-"
+  href="https://drive.google.com/uc?export=download&id=1gADY87NphXaum8ILOHSVgyyxAy0JoV6G"
   target="_blank"
   rel="noopener noreferrer"
 >
   Download CV
 </a>
+
 
 
           </div>
