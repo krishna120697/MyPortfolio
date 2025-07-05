@@ -38,9 +38,15 @@ const About = () => {
               <li>Java</li>
               <li>Python</li>
             </ul>
-            <a className="btn" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+           <a
+  className="btn"
+  href="https://drive.google.com/uc?export=download&id=1HMXlyBR2SC6tgAR5rgBUM_e0UbXBuId-"
+  target="_blank"
+  rel="noopener noreferrer"
+>
   Download CV
 </a>
+
 
           </div>
 
