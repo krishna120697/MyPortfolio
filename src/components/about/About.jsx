@@ -40,7 +40,7 @@ const About = () => {
             </ul>
            <a
   className="btn"
-  href="https://drive.google.com/uc?export=download&id=1gADY87NphXaum8ILOHSVgyyxAy0JoV6G"
+  href="https://drive.google.com/uc?export=download&id=1fJile277789COfY2dlC6i6qVWnKbyhq9"
   target="_blank"
   rel="noopener noreferrer"
 >
